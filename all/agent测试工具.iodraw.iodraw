@@ -208,7 +208,7 @@
           <mxGeometry x="-780" y="1855" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-55" value="CLI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="1945" width="80" height="70" as="geometry" />
+          <mxGeometry x="-580" y="1860" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-56" value="sever" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-545" y="1930" width="110" height="70" as="geometry" />
@@ -230,6 +230,9 @@
             <mxPoint x="-490" y="1040" as="sourcePoint" />
             <mxPoint x="-440" y="990" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-102" value="CLI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="1735" width="500" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
