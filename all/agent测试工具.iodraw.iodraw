@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dHDpq8I74pBis_BxyiSI-16" value="&lt;div&gt;&lt;div&gt;test/&lt;/div&gt;&lt;div&gt;├──v1.0/&lt;/div&gt;├──v2.0/&lt;div&gt;……&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1410" width="175" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="dHDpq8I74pBis_BxyiSI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-670" y="1735" width="660" height="95.5" as="geometry" />
         </mxCell>
@@ -187,7 +190,7 @@
           <mxGeometry x="-180" y="1040" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-38" value="测试用例/测试用例集" style="rounded=0;whiteSpace=wrap;html=1;align=center;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1360" width="175" height="130" as="geometry" />
+          <mxGeometry x="130" y="1360" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-42" value="meta-skill.md" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-670" y="910" width="120" height="60" as="geometry" />
@@ -275,9 +278,6 @@
             <mxPoint x="-245.35999999999999" y="1880" as="sourcePoint" />
             <mxPoint x="-245.35999999999999" y="1830" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dHDpq8I74pBis_BxyiSI-16" value="&lt;div&gt;&lt;div&gt;test/&lt;/div&gt;&lt;div&gt;├──v1.0/&lt;/div&gt;├──v2.0/&lt;div&gt;……&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1420" width="175" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
