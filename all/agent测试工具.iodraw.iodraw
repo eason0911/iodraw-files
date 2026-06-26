@@ -41,7 +41,7 @@
           <mxGeometry x="-180" y="1980" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-10" value="测试数据包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1740" width="130" height="80" as="geometry" />
+          <mxGeometry x="110" y="2030" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-11" value="&lt;div&gt;本地&lt;/div&gt;&lt;div&gt;看板&lt;/div&gt;&lt;div&gt;report.html&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="1754" width="130" height="80" as="geometry" />
