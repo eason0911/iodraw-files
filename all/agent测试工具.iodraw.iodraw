@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dHDpq8I74pBis_BxyiSI-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-37" target="i_vzjvsgbObgU7w2WHYk-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-51" value="构造物（工具函数）&lt;div&gt;tools/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-780" y="1560" width="140" height="50" as="geometry" />
         </mxCell>
@@ -161,9 +164,6 @@
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-36" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 产品基础控制命令集&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 环境构造指令&lt;/div&gt;&lt;div&gt;3. 测试命令发送指令&lt;/div&gt;&lt;div&gt;4. 测试数据收集指令&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-560" y="1450" width="130" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="dHDpq8I74pBis_BxyiSI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-37" target="i_vzjvsgbObgU7w2WHYk-51">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-37" value="构造测试操作程序/函数" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="1040" width="110" height="50" as="geometry" />
