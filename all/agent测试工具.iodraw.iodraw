@@ -139,8 +139,8 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-52" value="执行层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-780" y="1500" width="630" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-53" value="输出层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1500" width="280" height="60" as="geometry" />
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-53" value="&lt;div&gt;输出层&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; └── results/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── 2026-06-26-001/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── report.html&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── smoke_hvac/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac_test_data.json&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac.llm_assert.json&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── logs/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1500" width="450" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
