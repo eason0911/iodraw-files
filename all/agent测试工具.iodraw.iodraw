@@ -80,25 +80,25 @@
           <mxGeometry x="-430" y="550" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-30" value="程序自动化&lt;span style=&quot;background-color: initial;&quot;&gt;最小验证程序&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;穿刺验证：&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1）产品环境操作命令&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; 2）产品测试发送命令&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 3）产品测试数据收集策略&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="550" width="170" height="90" as="geometry" />
+          <mxGeometry x="-260" y="603" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-32" value="测试用例集设计" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="664" width="120" height="90" as="geometry" />
+          <mxGeometry x="-430" y="656" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-33" value="&lt;div&gt;测试用例构造手册&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1）测试用例格式规范，json&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 2）硬断言标签。（按需侵入修改源码，埋点断言标签）&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 3）测试用例构造方法（测试用例维度拆分）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="664" width="170" height="90" as="geometry" />
+          <mxGeometry x="-260" y="708" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-34" value="构造测试用例" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="919" width="120" height="90" as="geometry" />
+          <mxGeometry x="-430" y="867" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-35" value="构造产品控制命令集" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="794" width="120" height="90" as="geometry" />
+          <mxGeometry x="-430" y="761" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-36" value="&lt;div&gt;产品控制命令集&lt;/div&gt;&lt;div&gt;1. 产品基础控制命令集&lt;/div&gt;&lt;div&gt;2. 环境构造指令&lt;/div&gt;&lt;div&gt;3. 测试命令发送指令&lt;/div&gt;&lt;div&gt;4. 测试数据收集指令&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="794" width="170" height="90" as="geometry" />
+          <mxGeometry x="-260" y="814" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-37" value="构造操作程序/函数" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="1020" width="120" height="90" as="geometry" />
+          <mxGeometry x="-430" y="972" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-38" value="测试用例/测试用例集" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="-260" y="919" width="175" height="90" as="geometry" />
