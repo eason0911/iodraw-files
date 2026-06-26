@@ -28,8 +28,8 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;环境构造指令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1355" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-15" value="py数据收集工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="1355" width="130" height="30" as="geometry" />
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-15" value="&lt;span style=&quot;text-align: left;&quot;&gt;测试命令发送指令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="1355" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-16" value="py软断言工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1250" width="130" height="30" as="geometry" />
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-58" value="&lt;span style=&quot;text-align: left;&quot;&gt;产品基础控制命令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-750" y="1320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-59" value="&lt;span style=&quot;text-align: left;&quot;&gt;环境构造指令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="1390" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
