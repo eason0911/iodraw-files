@@ -11,22 +11,22 @@
           <mxGeometry x="-780" y="760" width="140" height="530" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-1" value="手动调试工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="1635" width="131" height="60" as="geometry" />
+          <mxGeometry x="201" y="1774" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-2" value="手动构造用例界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1635" width="130" height="60" as="geometry" />
+          <mxGeometry x="50" y="1774" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-3" value="自动化测试界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1710" width="291" height="60" as="geometry" />
+          <mxGeometry x="50" y="1849" width="291" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-9" value="&lt;div&gt;数据&lt;/div&gt;看板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1300" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-10" value="测试数据包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1635" width="130" height="80" as="geometry" />
+          <mxGeometry x="410" y="1774" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-11" value="&lt;div&gt;本地&lt;/div&gt;&lt;div&gt;看板&lt;/div&gt;&lt;div&gt;report.html&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1525" width="130" height="80" as="geometry" />
+          <mxGeometry x="410" y="1664" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;环境构造指令&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;的函数&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="1355" width="100" height="55" as="geometry" />
@@ -113,19 +113,19 @@
           <mxGeometry x="-670" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-52" value="测试执行层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1460" width="570" height="60" as="geometry" />
+          <mxGeometry x="-780" y="1599" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-53" value="&lt;div&gt;测试输出物&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; └── results/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── 2026-06-26-001/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── report.html&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── smoke_hvac/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac_test_data.json&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac.llm_assert.json&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── logs/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="1475" width="260" height="130" as="geometry" />
+          <mxGeometry x="-75" y="1614" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-54" value="控制层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1550" width="80" height="70" as="geometry" />
+          <mxGeometry x="-780" y="1689" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-55" value="CLI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="1550" width="80" height="70" as="geometry" />
+          <mxGeometry x="-650" y="1689" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-56" value="sever" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="1550" width="110" height="70" as="geometry" />
+          <mxGeometry x="-540" y="1689" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-57" value="device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="795" width="400" height="60" as="geometry" />
