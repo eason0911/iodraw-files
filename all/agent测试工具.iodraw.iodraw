@@ -8,7 +8,7 @@
           <mxGeometry x="-780" y="1300" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-44" value="Agent构造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="760" width="140" height="530" as="geometry" />
+          <mxGeometry x="-780" y="760" width="140" height="490" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-1" value="手动调试工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="201" y="1774" width="131" height="60" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="470" y="854" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-34" value="构造测试用例" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1040" width="105" height="50" as="geometry" />
+          <mxGeometry x="-40" y="1040" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-35" value="构造产品控制命令集" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="1040" width="110" height="50" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="470" y="984" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-37" value="构造测试操作程序/函数" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1040" width="110" height="50" as="geometry" />
+          <mxGeometry x="-180" y="1040" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-38" value="测试用例/测试用例集" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-635" y="1460" width="175" height="90" as="geometry" />
