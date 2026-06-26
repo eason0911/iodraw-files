@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-30" value="程序自动化&lt;span style=&quot;background-color: initial;&quot;&gt;最小验证程序&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;穿刺验证：&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1）产品环境操作命令&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; 2）产品测试发送命令&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 3）产品测试数据收集策略&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="1190" width="160" height="90" as="geometry" />
+          <mxGeometry x="-570" y="1200" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-90" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000CC;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-32" target="i_vzjvsgbObgU7w2WHYk-47">
           <mxGeometry relative="1" as="geometry" />
