@@ -101,13 +101,13 @@
           <mxGeometry x="-570" y="1180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-47" value="测试用例构造手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-280" y="1180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-48" value="测试环境构造手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-430" y="1180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-49" value="硬断言标签规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-50" value="&lt;div&gt;用户提供&lt;/div&gt;raw-data/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="760" width="120" height="60" as="geometry" />
