@@ -26,10 +26,10 @@
           <mxGeometry x="420" y="1788.5" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;环境构造指令&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;的函数&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-426" y="1564.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="-430" y="1627.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-15" value="&lt;span style=&quot;text-align: left;&quot;&gt;测试命令发送指令&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;的函数&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-166" y="1564.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="-170" y="1627.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-16" value="py软断言工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1190" width="130" height="30" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry x="-670" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-45" value="规则构造物&lt;div&gt;rules/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="-780" y="1350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-46" value="产品控制命令集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1400" width="110" height="50" as="geometry" />
@@ -217,10 +217,10 @@
           <mxGeometry x="850" y="795" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-58" value="&lt;span style=&quot;text-align: left;&quot;&gt;产品基础控制命令&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;的函数&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-556" y="1564.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="-560" y="1627.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-59" value="&lt;span style=&quot;text-align: left;&quot;&gt;测试数据收集指令&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;的函数&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-296" y="1564.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="-300" y="1627.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-62" value="demo_test/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="1109" width="120" height="60" as="geometry" />
