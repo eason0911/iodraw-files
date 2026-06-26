@@ -25,11 +25,11 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-11" value="&lt;div&gt;本地&lt;/div&gt;&lt;div&gt;看板&lt;/div&gt;&lt;div&gt;report.html&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="1525" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-12" value="py测试命令工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-12" value="测试命令工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1355" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-15" value="py数据收集工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1200" width="130" height="30" as="geometry" />
+          <mxGeometry x="-580" y="1355" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-16" value="py软断言工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1250" width="130" height="30" as="geometry" />
