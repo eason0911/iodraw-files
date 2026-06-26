@@ -37,6 +37,9 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-16" value="py软断言工具" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1250" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-17" target="i_vzjvsgbObgU7w2WHYk-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-17" value="产品操作手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="830" width="110" height="60" as="geometry" />
         </mxCell>
@@ -142,7 +145,7 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-62" value="demo_soft/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-18">
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-70" value="" style="endArrow=openAsync;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-18" target="i_vzjvsgbObgU7w2WHYk-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-490" y="1040" as="sourcePoint" />
             <mxPoint x="-440" y="990" as="targetPoint" />
