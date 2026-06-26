@@ -145,7 +145,7 @@
           <mxGeometry x="-440" y="1040" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-33" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1）测试用例格式规范，json&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2）硬断言标签。（按需侵入修改源码，埋点断言标签）&lt;/div&gt;&lt;div&gt;3）测试用例构造方法（测试用例维度拆分）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="1450" width="170" height="90" as="geometry" />
+          <mxGeometry x="-186" y="1450" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-34" value="构造测试用例" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1040" width="105" height="50" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-47" value="测试用例构造手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="1399.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="-186" y="1400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-48" value="测试环境构造手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="1400" width="120" height="50" as="geometry" />
@@ -190,7 +190,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-49" value="硬断言标签规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1399.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="20" y="1400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-50" value="&lt;div&gt;用户提供&lt;/div&gt;raw-data/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="760" width="120" height="60" as="geometry" />
