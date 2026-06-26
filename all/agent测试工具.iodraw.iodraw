@@ -189,6 +189,9 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-37" value="构造测试操作程序/函数" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="1040" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="dHDpq8I74pBis_BxyiSI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-38" target="i_vzjvsgbObgU7w2WHYk-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-38" value="测试用例/测试用例集" style="rounded=0;whiteSpace=wrap;html=1;align=center;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="1360" width="140" height="80" as="geometry" />
         </mxCell>
