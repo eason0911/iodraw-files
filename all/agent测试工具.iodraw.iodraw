@@ -175,7 +175,7 @@
           <mxGeometry x="-670" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-45" value="规则构造物&lt;div&gt;rules/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="1364.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-780" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-46" value="产品控制命令集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1400" width="110" height="50" as="geometry" />
