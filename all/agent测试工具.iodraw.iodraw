@@ -103,10 +103,7 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-38" value="测试用例/测试用例集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="670" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-40" value="1. 执行产品基础控制命令的函数&#xa;2. 执行环境构造指令的函数&#xa;3. 执行测试命令发送指令的函数&#xa;4. 执行测试数据收集指令的函数" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="380" y="900" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-41" value="构造操作程序/函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-41" value="&lt;span style=&quot;text-align: left;&quot;&gt;1. 执行产品基础控制命令的函数&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;2. 执行环境构造指令的函数&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;3. 执行测试命令发送指令的函数&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;4. 执行测试数据收集指令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="830" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
