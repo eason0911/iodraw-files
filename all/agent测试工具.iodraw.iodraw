@@ -107,16 +107,16 @@
           <mxGeometry x="-245" y="765" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-42" value="meta-skill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="-670" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-43" value="skills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="-670" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-44" value="构造层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-780" y="930" width="80" height="360" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-45" value="规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="-670" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-46" value="产品控制命令集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-430" y="1010" width="120" height="60" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry x="-430" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-50" value="raw-data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="-670" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-51" value="工具层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="930" width="120" height="60" as="geometry" />
