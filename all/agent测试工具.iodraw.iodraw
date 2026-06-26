@@ -101,10 +101,10 @@
           <mxGeometry x="70" y="830" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-38" value="测试用例/测试用例集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="670" width="120" height="90" as="geometry" />
+          <mxGeometry x="275" y="670" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-41" value="&lt;span style=&quot;text-align: left;&quot;&gt;1. 执行产品基础控制命令的函数&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;2. 执行环境构造指令的函数&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;3. 执行测试命令发送指令的函数&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;4. 执行测试数据收集指令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="830" width="120" height="90" as="geometry" />
+          <mxGeometry x="270" y="830" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
