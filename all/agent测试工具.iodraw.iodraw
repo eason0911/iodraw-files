@@ -148,7 +148,7 @@
           <mxGeometry x="-310" y="1040" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-36" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 产品基础控制命令集&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 环境构造指令&lt;/div&gt;&lt;div&gt;3. 测试命令发送指令&lt;/div&gt;&lt;div&gt;4. 测试数据收集指令&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1450" width="170" height="90" as="geometry" />
+          <mxGeometry x="-560" y="1450" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-37" value="构造测试操作程序/函数" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="1040" width="110" height="50" as="geometry" />
@@ -167,6 +167,9 @@
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-46" value="产品控制命令集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1400" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-47" target="i_vzjvsgbObgU7w2WHYk-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-47" value="测试用例构造手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="1399.5" width="120" height="50" as="geometry" />
