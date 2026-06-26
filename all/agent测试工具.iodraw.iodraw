@@ -145,8 +145,11 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-54" value="控制层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-780" y="1530" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-55" value="控制层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-55" value="CLI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-650" y="1530" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-56" value="sever" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="1530" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
