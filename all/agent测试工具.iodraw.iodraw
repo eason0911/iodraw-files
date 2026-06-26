@@ -154,7 +154,7 @@
           <mxGeometry x="201" y="830" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-28" value="LLM软断言工具函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="224" y="1710" width="130" height="37.75" as="geometry" />
+          <mxGeometry x="230" y="1672.25" width="130" height="37.75" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="i_vzjvsgbObgU7w2WHYk-29" target="i_vzjvsgbObgU7w2WHYk-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -327,6 +327,9 @@
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-16" value="LLM软断言工具&lt;div&gt;ai_tool/&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1575" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CUg5kbhz6Lh1nOP77go--5" value="单例构造" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1710" width="130" height="37.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
