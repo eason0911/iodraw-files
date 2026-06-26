@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dHDpq8I74pBis_BxyiSI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="1722.25" width="660" height="95.5" as="geometry" />
+          <mxGeometry x="-670" y="1735" width="660" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="dHDpq8I74pBis_BxyiSI-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-670" y="1614.5" width="660" height="95.5" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="65" y="1735" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-11" value="&lt;div&gt;本地&lt;/div&gt;&lt;div&gt;看板&lt;/div&gt;&lt;div&gt;report.html&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1890" width="130" height="80" as="geometry" />
+          <mxGeometry x="349" y="1890" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;环境构造指令&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;的函数&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1627.5" width="100" height="55" as="geometry" />
@@ -217,7 +217,7 @@
           <mxGeometry x="-670" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-52" value="测试执行层&lt;div&gt;app/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="1740" width="140" height="60" as="geometry" />
+          <mxGeometry x="-780" y="1752.75" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-53" value="&lt;div&gt;测试输出物&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; └── results/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── 2026-06-26-001/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── report.html&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── smoke_hvac/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac_test_data.json&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac.llm_assert.json&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── logs/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="130" y="1795" width="260" height="130" as="geometry" />
@@ -250,7 +250,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-102" value="APP_RUNNER" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-570" y="1735" width="500" height="70" as="geometry" />
+          <mxGeometry x="-570" y="1747.75" width="500" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dHDpq8I74pBis_BxyiSI-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#B5739D;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-47" target="dHDpq8I74pBis_BxyiSI-5">
           <mxGeometry relative="1" as="geometry">
