@@ -67,10 +67,10 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-24" value="断言表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="305" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-25" value="已有的测试用例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-25" value="已有的测试用例集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-413" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-26" value="故障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-26" value="已有故障集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-413" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-28" value="LLM_config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
