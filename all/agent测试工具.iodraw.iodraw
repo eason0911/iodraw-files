@@ -220,7 +220,7 @@
           <mxGeometry x="-780" y="1740" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-53" value="&lt;div&gt;测试输出物&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; └── results/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── 2026-06-26-001/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── report.html&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── smoke_hvac/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac_test_data.json&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac.llm_assert.json&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── logs/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="131.5" y="1855" width="260" height="130" as="geometry" />
+          <mxGeometry x="110" y="1840" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-54" value="控制层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-780" y="1860" width="140" height="180" as="geometry" />
