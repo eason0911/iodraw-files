@@ -144,6 +144,9 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-32" value="测试用例集设计" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="1040" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-33" target="i_vzjvsgbObgU7w2WHYk-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-33" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1）测试用例格式规范，json&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2）硬断言标签。（按需侵入修改源码，埋点断言标签）&lt;/div&gt;&lt;div&gt;3）测试用例构造方法（测试用例维度拆分）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="-186" y="1450" width="170" height="90" as="geometry" />
         </mxCell>
