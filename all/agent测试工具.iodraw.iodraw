@@ -59,7 +59,7 @@
           <mxGeometry x="230" y="1280" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-29" value="测试设计技术穿刺" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="-465" y="920" width="120" height="90" as="geometry" />
+          <mxGeometry x="-570" y="1050" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-30" value="程序自动化&lt;span style=&quot;background-color: initial;&quot;&gt;最小验证程序&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;穿刺验证：&lt;/span&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1）产品环境操作命令&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; 2）产品测试发送命令&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 3）产品测试数据收集策略&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="250" width="170" height="90" as="geometry" />
@@ -98,16 +98,16 @@
           <mxGeometry x="-670" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-46" value="产品控制命令集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="-500" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-47" value="测试用例构造手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="-210" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-48" value="测试环境构造手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="-350" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-49" value="硬断言标签规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-50" value="&lt;div&gt;用户提供&lt;/div&gt;raw-data/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="760" width="120" height="60" as="geometry" />
