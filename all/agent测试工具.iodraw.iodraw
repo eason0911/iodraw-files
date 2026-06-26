@@ -88,8 +88,11 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-33" value="&lt;div&gt;测试用例构造手册&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1）测试用例格式规范，json&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 2）硬断言标签。（按需侵入修改源码，埋点断言标签）&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 3）测试用例构造方法（测试用例维度拆分）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-200" y="750" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-34" value="构造产品控制命令集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-34" value="构造测试用例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="900" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-35" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #569cd6;font-weight: bold;&quot;&gt;构造产品控制命令集&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="880" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
