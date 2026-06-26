@@ -26,7 +26,7 @@
           <mxGeometry x="410" y="1525" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;环境构造指令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="1340" width="150" height="30" as="geometry" />
+          <mxGeometry x="-400" y="1310" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-15" value="&lt;span style=&quot;text-align: left;&quot;&gt;测试命令发送指令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-650" y="1390" width="150" height="30" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="-430" y="1180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-49" value="硬断言标签规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-130" y="1180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-50" value="&lt;div&gt;用户提供&lt;/div&gt;raw-data/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="760" width="120" height="60" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="850" y="795" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-58" value="&lt;span style=&quot;text-align: left;&quot;&gt;产品基础控制命令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="1340" width="150" height="30" as="geometry" />
+          <mxGeometry x="-570" y="1310" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-59" value="&lt;span style=&quot;text-align: left;&quot;&gt;测试数据收集指令的函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="1390" width="150" height="30" as="geometry" />
