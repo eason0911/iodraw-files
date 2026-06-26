@@ -35,7 +35,7 @@
           <mxGeometry x="-780" y="760" width="140" height="570" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-1" value="手动调试工具界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="2000" width="100.5" height="60" as="geometry" />
+          <mxGeometry x="-300.5" y="2000" width="100.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-2" value="手动构造用例界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="2000" width="99.5" height="60" as="geometry" />
@@ -242,6 +242,9 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-55" value="CLI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-580" y="1880" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="dHDpq8I74pBis_BxyiSI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-56" target="i_vzjvsgbObgU7w2WHYk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-56" value="sever" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="1880" width="350" height="70" as="geometry" />
         </mxCell>
@@ -295,6 +298,9 @@
         </mxCell>
         <mxCell id="dHDpq8I74pBis_BxyiSI-17" value="（绑定）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-305" y="1708" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHDpq8I74pBis_BxyiSI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.556;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-56" target="i_vzjvsgbObgU7w2WHYk-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
