@@ -50,7 +50,7 @@
             <mxPoint x="-130" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-17" value="产品操作手册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-17" value="产品操作手册&lt;div&gt;(调试指令)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="830" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-18" value="测试环境部署方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
