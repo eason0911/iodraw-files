@@ -236,6 +236,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7O4pHOX6J-C1J8auw5wb-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=#B5739D;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-47" target="i_vzjvsgbObgU7w2WHYk-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-47" value="测试用例构造手册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-310" y="1400" width="120" height="50" as="geometry" />
         </mxCell>
