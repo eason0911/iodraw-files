@@ -166,7 +166,7 @@
           <mxGeometry x="-180" y="1040" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-38" value="测试用例/测试用例集&lt;div&gt;test/&lt;/div&gt;&lt;div&gt;├──v1.0/&lt;/div&gt;├──v2.0/&lt;div&gt;……&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1560" width="175" height="250" as="geometry" />
+          <mxGeometry x="110" y="1620" width="175" height="180" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-42" value="meta-skill.md" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="910" width="120" height="60" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry x="-670" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-52" value="测试执行层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1740" width="570" height="60" as="geometry" />
+          <mxGeometry x="-780" y="1740" width="790" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-53" value="&lt;div&gt;测试输出物&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; └── results/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── 2026-06-26-001/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── report.html&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── smoke_hvac/&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac_test_data.json&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ├── smoke_hvac.llm_assert.json&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; └── logs/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="131.5" y="1855" width="260" height="130" as="geometry" />
