@@ -79,7 +79,7 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-29" value="测试设计技术穿刺" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="600" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="i_vzjvsgbObgU7w2WHYk-30" value="程序自动化&lt;div&gt;最小验证程序&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i_vzjvsgbObgU7w2WHYk-30" value="程序自动化&lt;div&gt;最小验证程序&lt;br&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1）产品环境操作命令&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 2）产品测试发送命令&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 3）产品测试数据收集策略&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="600" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
