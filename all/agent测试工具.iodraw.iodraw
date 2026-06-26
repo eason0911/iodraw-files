@@ -53,7 +53,7 @@
           <mxGeometry x="70" y="830" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-26" value="已有故障集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="700" width="110" height="60" as="geometry" />
+          <mxGeometry x="201" y="830" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-28" value="LLM_config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="1280" width="130" height="30" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="595" y="720" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-42" value="meta-skill.md" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="-670" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-43" value="skills/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="1080" width="120" height="60" as="geometry" />
