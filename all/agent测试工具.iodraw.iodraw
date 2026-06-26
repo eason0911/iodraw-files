@@ -31,20 +31,14 @@
         <mxCell id="i_vzjvsgbObgU7w2WHYk-44" value="Agent构造" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-780" y="760" width="140" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="dHDpq8I74pBis_BxyiSI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-1" target="i_vzjvsgbObgU7w2WHYk-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-1" value="手动调试工具" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="2000" width="100.5" height="60" as="geometry" />
+          <mxGeometry x="-300" y="1980" width="100.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-2" value="手动构造用例界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-420" y="2000" width="99.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dHDpq8I74pBis_BxyiSI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i_vzjvsgbObgU7w2WHYk-3" target="i_vzjvsgbObgU7w2WHYk-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-420" y="1980" width="99.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-3" value="自动化测试界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="2000" width="110" height="60" as="geometry" />
+          <mxGeometry x="-180" y="1980" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-10" value="测试数据包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="2015" width="130" height="80" as="geometry" />
