@@ -32,10 +32,10 @@
           <mxGeometry x="-780" y="760" width="140" height="570" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-1" value="手动调试工具" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-206" y="1955" width="131" height="60" as="geometry" />
+          <mxGeometry x="-330.5" y="2000" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-2" value="手动构造用例界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-365" y="1955" width="130" height="60" as="geometry" />
+          <mxGeometry x="-480.5" y="2000" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-3" value="自动化测试界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="2090" width="291" height="60" as="geometry" />
