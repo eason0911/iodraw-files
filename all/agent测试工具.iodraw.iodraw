@@ -38,7 +38,7 @@
           <mxGeometry x="-480.5" y="2000" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-3" value="自动化测试界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="45" y="2090" width="291" height="60" as="geometry" />
+          <mxGeometry x="-180" y="2000" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_vzjvsgbObgU7w2WHYk-10" value="测试数据包" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="2015" width="130" height="80" as="geometry" />
